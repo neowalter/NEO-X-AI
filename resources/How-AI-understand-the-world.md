@@ -49,8 +49,13 @@
 ## References
 
 [1] Russell, S. J., & Norvig, P. (2016). Artificial intelligence: a modern approach. Malaysia; Pearson Education Limited.
+
 [2] Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
+
 [3] Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.
+
 [4] Mitchell, T. M. (1997). Machine learning. McGraw Hill series in computer science.
+
 [5] Murphy, K. P. (2012). Machine learning: a probabilistic perspective. MIT press.
+
 [6] Doshi-Velez, F., & Kim, B. (2017). A roadmap for a rigorous science of interpretability. arXiv preprint arXiv:1702.08608.
